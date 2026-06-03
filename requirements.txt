@@ -1,6 +1,0 @@
-streamlit
-pandas
-requests
-folium
-ortools
-streamlit-folium
